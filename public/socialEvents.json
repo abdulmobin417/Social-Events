@@ -1,0 +1,122 @@
+[
+  {
+    "ID": "1",
+    "category": "Wedding",
+    "name": "Grace and John's Wedding",
+    "image": "https://i.ibb.co/gj2jT3B/weeding-1.jpg",
+    "event_date": "2023-05-20",
+    "ratings": 4.8,
+    "price": "$150",
+    "description": "Grace and John's wedding was a magical day filled with love, laughter, and unforgettable moments. The ceremony took place in a picturesque garden, surrounded by blooming flowers and under a clear blue sky. Guests were greeted with a live jazz band and champagne, setting the tone for an elegant affair. The reception was held in a grand ballroom adorned with crystal chandeliers and exquisite floral arrangements. The couple's first dance brought tears to everyone's eyes, and the night was filled with toasts, delicious cuisine, and dancing under the stars. It was a day that celebrated the union of two souls, and the memories created will be cherished forever."
+  },
+  {
+    "ID": "2",
+    "category": "Birthday Party",
+    "name": "Sophia's Sweet 16",
+    "image": "https://i.ibb.co/W60R7s7/birthday-1.webp",
+    "event_date": "2023-02-10",
+    "ratings": 4.5,
+    "price": "$150",
+    "description": "Sophia's Sweet 16 was an extravagant celebration of her transition from childhood to young adulthood. The party took place at a luxurious waterfront venue, complete with a DJ, photo booth, and a dessert table filled with delectable treats. Guests were greeted with a red carpet entrance and were invited to participate in a dance-off competition. Sophia looked stunning in her custom-made gown, and her friends joined her in dancing the night away. The highlight of the evening was a surprise performance by a famous local band, and the night ended with a spectacular fireworks display over the water. It was a birthday party that Sophia will cherish for the rest of her life."
+  },
+  {
+    "ID": "3",
+    "category": "Anniversary",
+    "name": "Robert and Emily's 25th Anniversary",
+    "image": "https://i.ibb.co/8mrw4QW/annyversary-1.jpg",
+    "event_date": "2023-09-15",
+    "ratings": 4.9,
+    "price": "$150",
+    "description": "Robert and Emily celebrated 25 years of love and companionship in a heartwarming anniversary event. The evening began with a renewal of vows in a charming chapel followed by a romantic dinner under a canopy of fairy lights. Family and friends toasted the couple's enduring love, and their adult children surprised them with a touching video montage of their life together. Live acoustic music added to the intimate atmosphere, and guests enjoyed a scrumptious four-course meal. The celebration concluded with a dance under the stars, and it was a beautiful reminder of the power of love and commitment."
+  },
+  {
+    "ID": "4",
+    "category": "Engagement Party",
+    "name": "Olivia and Michael's Engagement Bash",
+    "image": "https://i.ibb.co/vLd9wpZ/engagement-1.webp",
+    "event_date": "2023-07-08",
+    "ratings": 4.7,
+    "price": "$150",
+    "description": "Olivia and Michael's engagement party was a joyful gathering of friends and family to celebrate their upcoming union. Held in a rustic barn venue, the event had a cozy and romantic atmosphere. Guests enjoyed a BBQ feast, signature cocktails, and lawn games. The couple's engagement story was shared, and they exchanged heartfelt vows in front of their loved ones. The night ended with a bonfire, where guests roasted marshmallows and shared stories. It was a delightful evening filled with love and anticipation for the journey ahead."
+  },
+  {
+    "ID": "5",
+    "category": "Retirement Party",
+    "name": "David's Retirement Extravaganza",
+    "image": "https://i.ibb.co/rMX7BBM/retirement-1.jpg",
+    "event_date": "2023-04-05",
+    "ratings": 4.6,
+    "price": "$150",
+    "description": "David's retirement party was a grand farewell to a successful career. The event took place at a swanky rooftop venue with breathtaking city views. Colleagues, friends, and family gathered to celebrate his accomplishments. A slideshow of David's career highlights and funny anecdotes had everyone in stitches. The night featured live jazz music, a gourmet buffet, and a toast to his future adventures in retirement. David's retirement party was a night of laughter, nostalgia, and well-wishes for the exciting chapter ahead."
+  },
+  {
+    "ID": "6",
+    "category": "Baby Shower",
+    "name": "Jennifer's Baby Shower",
+    "image": "https://i.ibb.co/cQJJ05p/baby-shower-1.webp",
+    "event_date": "2023-03-18",
+    "ratings": 4.4,
+    "price": "$150",
+    "description": "Jennifer's baby shower was a charming garden party in honor of the arrival of her baby girl. The event was filled with pastel decorations, baby-themed games, and sweet treats. Guests were greeted with a flower crown station and a tea bar. They played games like 'Guess the Baby Food' and 'Baby Name Bingo' with enthusiasm. Jennifer received a mountain of adorable gifts for her baby girl, and guests left their wishes in a special keepsake book. The day ended with a release of pink balloons, symbolizing the joy and anticipation of welcoming a new member into the family."
+  },
+  {
+    "ID": "7",
+    "category": "Wedding",
+    "name": "Ethan and Isabella's Romantic Wedding",
+    "image": "https://i.ibb.co/hZ0ZkDX/weeding-2.jpg",
+    "event_date": "2023-06-25",
+    "ratings": 4.7,
+    "price": "$180",
+    "description": "Ethan and Isabella's wedding was a romantic and elegant affair that took place on a beautiful summer evening. The ceremony was held in a charming garden, with a backdrop of blooming roses and twinkling fairy lights. The couple's vows were heartfelt, and as they exchanged rings, the sun set, casting a warm glow over the proceedings. The reception featured gourmet cuisine, a live band, and a breathtaking five-tiered wedding cake. Guests danced the night away, and the newlyweds departed in a vintage car, showered with rose petals. It was a day of pure love and enchantment."
+  },
+  {
+    "ID": "8",
+    "category": "Birthday Party",
+    "name": "Aiden's Superhero-themed 7th Birthday",
+    "image": "https://i.ibb.co/jHnfN5k/birthday-2.png",
+    "event_date": "2023-01-12",
+    "ratings": 4.6,
+    "price": "$180",
+    "description": "Aiden's 7th birthday party was a superhero extravaganza! The event transformed the backyard into a superhero training camp, complete with obstacle courses, capes, and masks for all the little heroes. Aiden dressed as his favorite superhero, and guests enjoyed a superhero-themed cake and games like 'Save the City' scavenger hunt. A surprise appearance by a costumed superhero thrilled the kids, and they left with goodie bags filled with comic books and treats. It was a day of adventure and imagination for Aiden and his young friends."
+  },
+  {
+    "ID": "9",
+    "category": "Anniversary",
+    "name": "Lucas and Sophia's 10th Anniversary",
+    "image": "https://i.ibb.co/jrMP4jK/annyversary-2.jpg",
+    "event_date": "2023-11-02",
+    "ratings": 4.9,
+    "price": "$180",
+    "description": "Lucas and Sophia celebrated their 10th anniversary with a romantic getaway to a cozy mountain cabin. Surrounded by the tranquility of nature, they renewed their vows in an intimate ceremony beside a babbling brook. The evening continued with a candlelit dinner on the cabin's porch, where they enjoyed a gourmet meal prepared by a private chef. The night sky was filled with stars as they reminisced about a decade of love and adventure together. It was a serene and unforgettable anniversary celebration."
+  },
+  {
+    "ID": "10",
+    "category": "Engagement Party",
+    "name": "Liam and Mia's Engagement Soiree",
+    "image": "https://i.ibb.co/GM6vyqf/engagement-2.png",
+    "event_date": "2023-09-30",
+    "ratings": 4.8,
+    "price": "$180",
+    "description": "Liam and Mia's engagement party was a glamorous soiree held at a historic mansion. The event featured a red carpet entrance, champagne towers, and live jazz music. Liam proposed to Mia in a dramatic fashion, and guests were in awe as fireworks lit up the night sky. The party continued with a gourmet dinner, a photo booth, and a dance floor that stayed lively until the early hours. It was a night of opulence and celebration in honor of their upcoming marriage."
+  },
+  {
+    "ID": "11",
+    "category": "Retirement Party",
+    "name": "Sarah's Farewell Bash",
+    "image": "https://i.ibb.co/xzM5nFX/retirement-2.jpg",
+    "event_date": "2023-08-19",
+    "ratings": 4.7,
+    "price": "$180",
+    "description": "Sarah's retirement party was a lively and heartfelt send-off for a dedicated career. Held in a beachfront venue, the event featured a tropical luau theme, complete with leis, tiki torches, and hula dancers. Colleagues shared touching stories about Sarah's contributions, and a slideshow highlighted her accomplishments. The evening included a buffet of exotic cuisine, a live band playing island tunes, and a dance floor where guests showcased their moves. Sarah's retirement was a celebration of a successful career and the start of a well-deserved new chapter."
+  },
+  {
+    "ID": "12",
+    "category": "Baby Shower",
+    "name": "Daniel and Emily's Gender Reveal Baby Shower",
+    "image": "https://i.ibb.co/VCRQFVT/baby-shower-2.webp",
+    "event_date": "2023-07-12",
+    "ratings": 4.5,
+    "price": "$180",
+    "description": "Daniel and Emily's baby shower was a unique gender reveal celebration. Held in a park, guests gathered around a giant box filled with helium balloons. When the box was opened, pink balloons floated up, revealing that they were expecting a baby girl. The day included a picnic, games, and a DIY onesie decorating station. Guests wrote heartfelt messages on tiny onesies for the baby-to-be, creating lasting keepsakes. It was a day of joy, anticipation, and the exciting revelation of their baby's gender."
+  }
+]
